@@ -1,0 +1,16 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Allure generated output
+/allure-results/
+/allure-report/
+
+# Local environment overrides and generated logs
+.env.local
+*.log
